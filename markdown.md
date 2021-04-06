@@ -6,6 +6,16 @@ The markdown language has been created by John Gruber and Aaron Swartz to format
 
 ### Bold
 
+The bolding of a text is done by putting the desired text between two stars or two underscores.
+
+Examples:
+
+  **Bold** or __Bold__
+ 
+Results:
+  
+**Bold** or __Bold__
+
 ### Italic
 
 
