@@ -246,4 +246,4 @@ To insert an image, the principle is the same as for a link, except that you mus
 
 *Results:*
 
-![Flower image](/image/flower.jpg "Optional title: Flower image")
+![Flower image](/image/flower.jpg)
