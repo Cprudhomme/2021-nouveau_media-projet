@@ -120,7 +120,7 @@ or
         - Tiger
 
 #### Numbered bulleted list:
-Numbered bulleted lists are created by using a number, followed by a point and a space.
+Numbered bulleted lists are created by using a number, followed by a dot and a space.
 
 *Examples:*
 ````
@@ -199,10 +199,42 @@ It is an example of code in line: `Example of code in line`.
 
 To insert uninterpreted Markdown code use 4 grave accents by going to the line, before and after your code.
 
+### Table
+
+*Examples:*
+````
+| Tables   |      Are      |  Cool |
+|:----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+````
+
+*Results:*
+
+| Tables   |      Are      |  Cool |
+|:----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ## Including external sources
 
 
 ### Links
 
+To create a link, place the link text in square brackets followed by the url in brackets.
+
+*Examples:*
+````
+[John Gruber website](https://daringfireball.net/projects/markdown/)
+````
+
+*Results:*
+
+[John Gruber website](https://daringfireball.net/projects/markdown/)
 
 ### Images
+
+
+To insert an image, the principle is the same as for a link, except that you must add an exclamation mark before the brackets.
