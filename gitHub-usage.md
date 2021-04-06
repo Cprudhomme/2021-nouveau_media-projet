@@ -26,6 +26,8 @@ Then, choose the free subscription.
 
 ## Git management
 
+![Git working overview](/image/git-repository.jpg)
+
 ## Project management: Collaborative work with GitHub
 
 
