@@ -71,7 +71,7 @@ Second paragraph: Quisque vulputate, massa ut egestas sagittis, urna dolor bland
 
 ### Lists
 
-- Bulleted list:
+#### Bulleted list:
 Bulleted lists are created by using a star or a dash. To create a sub-list, precede the star or dash with an indentation level (i.e. one tab or 4 spaces).
 
 *Examples:*
@@ -119,9 +119,49 @@ or
         - Monkey
         - Tiger
 
-- Numbered bulleted list:
+#### Numbered bulleted list:
 Numbered bulleted lists are created by using a number, followed by a point and a space.
 
+*Examples:*
+````
+1. Coffee 
+2. Tea
+3. Milk
+````
+
+*Results:*
+
+1. Coffee 
+2. Tea
+3. Milk
+
+#### Mixed list:
+
+*Examples:*
+````
+1. Breakfast
+    - Coffee 
+    - Butter Croissant
+    - Orange juice
+2. Dinner
+    * Raw vegetables
+    * Chicken with chestnuts
+    * Cheese
+    * Dessert
+````
+
+*Results:*
+
+1. Breakfast
+    - Coffee 
+    - Butter Croissant
+    - Orange juice
+2. Dinner
+    * Raw vegetables
+    * Chicken with chestnuts
+    * Cheese
+    * Dessert
+   
 ### Quote
 
 A quote is made by preceding the text with a chevron, followed by a space.
@@ -137,6 +177,27 @@ A quote is made by preceding the text with a chevron, followed by a space.
 
 ### Source code
 
+To insert a source code, just indent it (4 spaces or a tab).
+*Examples:*
+````
+    Example of code
+````
+
+*Results:*
+
+    Example of code
+
+To insert a code in a line, use a grave accent before and after your code.
+*Examples:*
+````
+It is an example of code in line: `Example of code in line`.
+````
+
+*Results:*
+
+It is an example of code in line: `Example of code in line`.
+
+To insert uninterpreted Markdown code use 4 grave accents by going to the line, before and after your code.
 
 ## Including external sources
 
