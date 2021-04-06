@@ -1,4 +1,4 @@
-# Markdown language 
+# Markdown language
 
 The markdown language has been created by John Gruber and Aaron Swartz to format text easily without needed to know HTML language.
 
@@ -14,7 +14,7 @@ The bolding of a text is done by putting the desired text between two stars or t
 ````
 
 *Results:*
-  
+
 **Bold with stars** or __Bold with underscores__
 
 ### Italic
@@ -27,7 +27,7 @@ The italicization of a text is done by putting the desired text between simple s
 ````
 
 *Results:*
-  
+
 *Italic with star* or _Italic with underscore_
 
 ## Structuring text
@@ -78,20 +78,20 @@ Bulleted lists are created by using a star or a dash. To create a sub-list, prec
 ````
 * Animals
     * Pets
-        * Dog 
+        * Dog
         * Cat
-        * Hamster 
+        * Hamster
     * Farm animals
-        * Cow 
+        * Cow
         * Hen
         * Goat
-  
+
 or
 
 - Animals
-    - Forest animals 
+    - Forest animals
         - Wild boar
-        - Deer 
+        - Deer
     - Jungle animals
         - Monkey
         - Tiger
@@ -101,20 +101,20 @@ or
 
 * Animals
     * Pets
-        * Dog 
+        * Dog
         * Cat
-        * Hamster 
+        * Hamster
     * Farm animals
-        * Cow 
+        * Cow
         * Hen
         * Goat
-  
+
 or
 
 - Animals
-    - Forest animals 
+    - Forest animals
         - Wild boar
-        - Deer 
+        - Deer
     - Jungle animals
         - Monkey
         - Tiger
@@ -124,14 +124,14 @@ Numbered bulleted lists are created by using a number, followed by a dot and a s
 
 *Examples:*
 ````
-1. Coffee 
+1. Coffee
 2. Tea
 3. Milk
 ````
 
 *Results:*
 
-1. Coffee 
+1. Coffee
 2. Tea
 3. Milk
 
@@ -140,7 +140,7 @@ Numbered bulleted lists are created by using a number, followed by a dot and a s
 *Examples:*
 ````
 1. Breakfast
-    - Coffee 
+    - Coffee
     - Butter Croissant
     - Orange juice
 2. Dinner
@@ -153,7 +153,7 @@ Numbered bulleted lists are created by using a number, followed by a dot and a s
 *Results:*
 
 1. Breakfast
-    - Coffee 
+    - Coffee
     - Butter Croissant
     - Orange juice
 2. Dinner
@@ -161,7 +161,7 @@ Numbered bulleted lists are created by using a number, followed by a dot and a s
     * Chicken with chestnuts
     * Cheese
     * Dessert
-   
+
 ### Quote
 
 A quote is made by preceding the text with a chevron, followed by a space.
@@ -238,3 +238,12 @@ To create a link, place the link text in square brackets followed by the url in 
 
 
 To insert an image, the principle is the same as for a link, except that you must add an exclamation mark before the brackets.
+
+*Examples:*
+````
+![Flower image](/image/flower.jpg "Optional title: Flower image")
+````
+
+*Results:*
+
+![Flower image](/image/flower.jpg "Optional title: Flower image")
