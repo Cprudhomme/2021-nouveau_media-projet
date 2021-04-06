@@ -44,13 +44,13 @@ The other branches created from the main branch are working branches that allow 
 ### GitHub Desktop to manage repository and branches
 
 GitHub Desktop:
-![GitHub Desktop](/image/github-desktop.jpg)
+![GitHub Desktop](/image/github-desktop.png)
 
 Repository management:
-![Repository management](/image/repository-management.jpg)
+![Repository management](/image/repository-management.png)
 
 Branch management:
-![Branch management](/image/branch-management.jpg)
+![Branch management](/image/branch-management.png)
 
 ### Good practices of work with branch
 
