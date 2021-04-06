@@ -2,34 +2,32 @@
 
 The markdown language has been created by John Gruber and Aaron Swartz to format text easily without needed to know HTML language.
 
-## Syntax for writing
+## Formatting text
 
-### Formatting text
+### Bold
 
-#### Bold
-
-#### Italic
+### Italic
 
 
 
-### Structuring text
+## Structuring text
 
 
-#### Titles
+### Titles
 
-#### Paragraphs
+### Paragraphs
 
-#### Lists
+### Lists
 
-#### Citation
+### Citation
 
-#### Source code
-
-
-### Including external sources
+### Source code
 
 
-#### Links
+## Including external sources
 
 
-#### Images
+### Links
+
+
+### Images
