@@ -7,3 +7,6 @@ Master degree project about cryptography
 - [GitHub usage](gitHub-usage.md)
 
 ## Project
+
+- Group 1
+- Group 2
