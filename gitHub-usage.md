@@ -24,6 +24,8 @@ Then, choose the free subscription.
 
 ## Principle of Git
 
+![Branch management](/image/branch.jpg)
+
 ## Git management
 
 ![Git working overview](/image/git-repository.jpg)
