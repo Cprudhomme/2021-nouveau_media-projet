@@ -72,52 +72,52 @@ Second paragraph: Quisque vulputate, massa ut egestas sagittis, urna dolor bland
 ### Lists
 
 - Bulleted list:
-Bulleted lists are created by using a star or a dash. To create a sub-list, precede the star or dash with an indentation level.
+Bulleted lists are created by using a star or a dash. To create a sub-list, precede the star or dash with an indentation level (i.e. one tab or 4 spaces).
 
 *Examples:*
 ````
 * Animals
- * Pets
-  * Dog 
-  * Cat
-  * Hamster 
- * Farm animals
-  * Cow 
-  * Hen
-  * Goat
+    * Pets
+        * Dog 
+        * Cat
+        * Hamster 
+    * Farm animals
+        * Cow 
+        * Hen
+        * Goat
   
 or
 
 - Animals
- - Forest animals 
-  - Wild boar
-  - Deer 
- - Jungle animals
-  - Monkey
-  - Tiger
+    - Forest animals 
+        - Wild boar
+        - Deer 
+    - Jungle animals
+        - Monkey
+        - Tiger
 ````
 
 *Results:*
 
-* Animals:
- * Pets
-  * Dog 
-  * Cat
-  * Hamster 
- * Farm animals
-  * Cow 
-  * Hen
-  * Goat
+* Animals
+    * Pets
+        * Dog 
+        * Cat
+        * Hamster 
+    * Farm animals
+        * Cow 
+        * Hen
+        * Goat
   
 or
 
-- Animals:
- - Forest animals 
-  - Wild boar
-  - Deer 
- - Jungle animals
-  - Monkey
-  - Tiger
+- Animals
+    - Forest animals 
+        - Wild boar
+        - Deer 
+    - Jungle animals
+        - Monkey
+        - Tiger
 
 - Numbered bulleted list:
 Numbered bulleted lists are created by using a number, followed by a point and a space.
