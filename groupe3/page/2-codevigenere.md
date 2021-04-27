@@ -17,21 +17,21 @@ HZ CUTQH Z MAYJF SDGU HO NGZBNKH FD RZJHM GE SU XOA QCDSRYB NJS PDMC MH LALB BA 
 | I |	A	| B | C | D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O	| P |	Q |	R |	S |	T |	U |	V |	W	| X |	Y |	Z |
 | J	| B	| C	| D	| E	|	F | G |	H |	I |	J |	K	| L	| M	| N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |
 | K	| C	| D |	E |	F |	G |	H |	I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |
-| L	| D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C
-| M	| E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D
-| N	| F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E
-| O	| G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F
-| P	| H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G
-| Q	| I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H
-| R	| J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I
-| S	| K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J
-| T |	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K
-| U |	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L
-| V	| N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M
-| W	| O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N
-| X	| P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O
-| Y	| Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P
-| Z |	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q
+| L	| D |	E |	F |	G |	H |	I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |
+| M	| E |	F |	G |	H |	I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |
+| N	| F |	G |	H |	I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |
+| O	| G |	H |	I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |
+| P	| H |	I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |
+| Q	| I |	J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |
+| R	| J |	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |
+| S	|	K	| L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |
+| T |	L	| M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |
+| U |	M | N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |
+| V	| N	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |
+| W	| O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |
+| X	| P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |
+| Y	| Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |	P |
+| Z |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |
 
 
 [see instructions](codevigenèreinstructions.md)
