@@ -8,4 +8,4 @@ KVIIF PZ H MYLL LSM.
 
 P ZVSLTUSF ZDLHY AOHA P HT BW AV UV NVVK.
 
-[See explanation]: (1-explanation.md)
+[See explanation](1-explanation.md)
