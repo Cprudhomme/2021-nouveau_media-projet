@@ -8,9 +8,9 @@ décodé par :
 décodé par :
 
 3. Hidden text - George Sand style (Aya)
-décodé par :
+décodé par : Anna
 
-4. Hidden word - Tristhème style (Inès)
+4. Hidden word - Trithème style (Inès)
 décodé par : Daria, Jed, Baptiste
 
 5. Hidden text in an image
