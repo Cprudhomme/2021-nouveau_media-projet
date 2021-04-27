@@ -1,7 +1,7 @@
 Hi ! Welcome to Hogwarts.
 Come and discover our riddles !
 
-1. Caesar cipher ()
+1. Caesar cipher (Anna)
 décodé par :
 
 2. Vigenere cipher (Daria)
