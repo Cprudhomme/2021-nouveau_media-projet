@@ -1,6 +1,6 @@
 # Code Vigenère
 
-> Here are come letters, can you find its secret?
+Here are come letters, can you find its secret?
 
 HZ CUTQH Z MAYJF SDGU HO NGZBNKH FD RZJHM GE SU XOA QCDSRYB NJS PDMC MH LALB BA HSGWX DB IN UDL ODXDTMM
 
