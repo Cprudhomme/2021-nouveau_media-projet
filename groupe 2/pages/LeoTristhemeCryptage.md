@@ -2,8 +2,8 @@
 
 The greatest Tom, who **should** be named,<br>
 Is not the one you love so dearly,<br>
-Who thinks of himself, and for no reason,<br>
-As the greatest Tom, silly snake,<br>
+Who thinks of himself as, and for no reason,<br>
+The greatest Tom, silly snake,<br>
 But, it's rather, you should all agree,<br>
 The one who, and only one,<br>
 Has been forgotten, more than once,<br>
