@@ -1,12 +1,12 @@
-# Mirror on the wall who is the prettiest Tom?: Steganography example like Trittheme
+# Mirror on the wall who is the prettiest Tom?: Steganography *a la* Johannes Trithemius
 
-The greatest Tom, who should be named
-Is not the one you love so dearly
-who thinks of himself, and for no reason,
-as the greatest Tom, silly snake
-but it's rather, you should all agree,
-the one who, and only one,
-has been forgotten, more than once,
+The greatest Tom, who **should** be named,
+Is not the one you love so dearly,
+Who thinks of himself, and for no reason,
+As the greatest Tom, silly snake,
+But, it's rather, you should all agree,
+The one who, and only one,
+Has been forgotten, more than once,
 Stop. Press send.
 
 
