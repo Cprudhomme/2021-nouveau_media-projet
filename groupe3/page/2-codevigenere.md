@@ -7,9 +7,9 @@ HZ CUTQH Z MAYJF SDGU HO NGZBNKH FD RZJHM GE SU XOA QCDSRYB NJS PDMC MH LALB BA 
   | - | A |	B |	C | D | E | F | G | H | I	| J |	K |	L |	M |	N |	O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |
   |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | A	| S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E	| F	| G	| H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |	R |
-B	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S
-C	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T
-D	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U
+| B |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F	| G	| H	| I	| J	| K	| L	| M	| N	| O	| P |	Q |	R |	S |
+| C	| U	| V	| W	| X	| Y |	Z	| A	| B	| C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |	R |	S |	T |
+| D	| V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K | L	| M |	N |	O |	P |	Q |	R |	S |	T |	U |
 E	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V
 F	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W
 G	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X
