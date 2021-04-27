@@ -1,3 +1,13 @@
+I created a table containing the words that correspond to each letter of the alphabet.
+All you have to do is read the sentences and find the matching letter for every word.
+Then you will discover the secret word.
+
+Write down your answers in the stégano_answers sheet.
+
+May the force be... ever in your fav...
+hum wrong saga, sorry.
+
+
 |Letter|Word|Letter|Word|
 |:----------:|:-------------:|:----------:|:-------------:|
 |A|SURELY|N|MUGGLES|
@@ -29,3 +39,6 @@ Them muggles surely won’t see.
 
 
 I see they will surely look great.
+
+
+> [Explanation](4-stégano_Trithème explanation.md)
