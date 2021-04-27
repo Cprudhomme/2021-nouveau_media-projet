@@ -4,6 +4,7 @@ The greatest Tom is not the one who thinks of himself as the greatest Tom, but i
 Code:
 
 Char| Meaning
+------|------
 A| But it’s rather
 B| The greatest Tom
 D| The one who
