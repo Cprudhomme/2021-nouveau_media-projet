@@ -4,6 +4,8 @@ Here are come letters, can you find its secret?
 
 HZ CUTQH Z MAYJF SDGU HO NGZBNKH FD RZJHM GE SU XOA QCDSRYB NJS PDMC MH LALB BA HSGWX DB IN UDL ODXDTMM
 
+Let this square help you, young wizard!
+
   | - | **A** |	**B** |	**C** | **D** | **E** | **F** | **G** | **H** | **I**	| **J** |	**K** |	**L** |	**M** |	**N** |	**O** |	**P** |	**Q** |	**R** |	**S** |	**T** |	**U** |	**V** |	**W** |	**X** |	**Y** | **Z** |
   |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **A**	| S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E	| F	| G	| H |	I |	J |	**K** |	L |	M |	N |	O |	P |	Q |	R |
