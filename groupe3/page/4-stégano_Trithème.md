@@ -4,7 +4,7 @@ I created a table containing the words that correspond to each letter of the alp
 All you have to do is read the sentences and find the matching letter for every word.
 Then you will discover the secret word.
 
-Write down your answers in the stégano_answers sheet.
+Write down your answers in the answers sheet.
 
 May the force be... ever in your fav...
 hum wrong saga, sorry.
