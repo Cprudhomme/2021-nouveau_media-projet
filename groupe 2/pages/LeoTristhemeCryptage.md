@@ -1,4 +1,4 @@
-#Mirror on the wall who is the prettiest Tom?
+# Mirror on the wall who is the prettiest Tom?: Steganography example like Trittheme
 
 The greatest Tom is not the one who thinks of himself as the greatest Tom, but it's rather the one who has been forgotten. Stop.
 
