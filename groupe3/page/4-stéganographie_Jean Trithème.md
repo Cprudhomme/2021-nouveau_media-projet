@@ -1,6 +1,6 @@
-|:--:|:----------|
-|A|SURELY|
-B 	I
+
+A   SURELY
+B   I
 C 	AND
 D	  GREAT
 E 	SEE
