@@ -12,6 +12,7 @@ Ce qui m'a donné :
 | I | T | - | T | A | K | E | S |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | H | O | - | R | C | R | U | X |
+
 et ainsi de suite.
 
 Le texte décrypté :
