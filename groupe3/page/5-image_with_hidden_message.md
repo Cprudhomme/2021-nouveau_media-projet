@@ -16,3 +16,7 @@ As always, there's a password. We're at Hogwarts dude!
 When in doubt, call his phoenix by his name (6 letters). He'll open the file for you.
 
 Good luck 
+
+
+
+> [Answers here](5-image_explanation.md)
