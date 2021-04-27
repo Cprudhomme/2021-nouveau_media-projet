@@ -1,16 +1,16 @@
 # Mirror on the wall who is the prettiest Tom?: Steganography *a la* Johannes Trithemius
 
-The greatest Tom, who **should** be named,
-Is not the one you love so dearly,
-Who thinks of himself, and for no reason,
-As the greatest Tom, silly snake,
-But, it's rather, you should all agree,
-The one who, and only one,
-Has been forgotten, more than once,
-Stop. Press send.
+The greatest Tom, who **should** be named,<br>
+Is not the one you love so dearly,<br>
+Who thinks of himself, and for no reason,<br>
+As the greatest Tom, silly snake,<br>
+But, it's rather, you should all agree,<br>
+The one who, and only one,<br>
+Has been forgotten, more than once,<br>
+Stop. Press send.<br>
 
 
-Code:
+Code:<br>
 
 Char| Meaning
 ------|------
