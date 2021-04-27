@@ -1,0 +1,1 @@
+Felix Felicis causes the drinker to have a limited period of good luck, during which they are likely to succeed in all endeavours in which success is possible. They have a strong perception of this effect, including a high level of confidence and a sensation of infinite opportunity.
