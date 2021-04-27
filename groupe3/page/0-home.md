@@ -16,7 +16,7 @@ coded by Aya
 
 decoded by Anna
 
-4. [Hidden word - Trithème style](/4-stégano_Trithème.md) 
+4. [Hidden word - Trithème style](4-stégano_Trithème.md) 
 coded by Inès
 
 decoded by Dariia, Jed, Baptiste
