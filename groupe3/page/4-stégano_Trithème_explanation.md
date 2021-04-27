@@ -18,16 +18,16 @@
 |M|OWL|Z|THEY|
 
 
-You will look and look for me : HORCRUX
+> You will look and look for me : HORCRUX
 
-You surely never never will find them	: HALLOWS
+> You surely never never will find them	: HALLOWS
 
-Them muggles surely won’t see : SNAPE
+> Them muggles surely won’t see : SNAPE
 
-I see they will surely look great : BEZOARD
+> I see they will surely look great : BEZOARD
 
 
-> Is that what you found ?
+Is that what you found ?
 
 
 
