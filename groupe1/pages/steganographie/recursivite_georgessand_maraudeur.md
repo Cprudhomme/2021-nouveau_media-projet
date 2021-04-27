@@ -1,3 +1,6 @@
+![maraudersmap](maraudersmap.jpg)
+
+
 # Carte du Maraudeur
 
 Trouve la formule et tous les chemins te seront dévoilés !
