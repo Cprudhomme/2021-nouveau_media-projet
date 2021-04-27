@@ -1,3 +1,5 @@
+# A lovers' farewell : a steganography example that emulate George Sand's poem  
+
 Come seek us where
 We parted yesterday   
 Our voices sound
@@ -23,4 +25,6 @@ May we go back  to the life,  before
 The prospect's black.
 Farewell, my love,   
 Too late, it's gone, it won't come back,
-Nor shall our love. 
+Nor shall our love.
+
+ [See instructions](steganographieinstructions-aya.md)
