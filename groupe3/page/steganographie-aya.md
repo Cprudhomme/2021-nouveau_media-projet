@@ -3,7 +3,9 @@
 Come seek us where
 We parted yesterday   
 Our voices sound
-Dull, our heart is in dismay. We Cannot sing, nor speak, can we?                             
+Dull, our heart is in dismay.
+We Cannot sing,
+Nor speak, can we?                             
 Above the ground
 Our woe shall break free
 And while you are
@@ -11,9 +13,11 @@ Parting from us,
 Searching, ponder this
 Alas!
 We've taken
-Your youth, beauty, and fairness; That is what you'll sorely miss,
-An hour
-Have our hearts have long been intertwined                    
+Your youth, beauty, and fairness; That is
+what you'll sorely miss,
+Have our hearts
+An hour,
+Long been intertwined?                    
 Long you'll have to look
 For our long lost flame’s ignite
 And to recover
