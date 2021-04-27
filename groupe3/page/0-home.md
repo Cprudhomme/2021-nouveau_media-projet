@@ -1,4 +1,8 @@
-Hi ! Welcome to Hogwarts.
+<p align="center">
+  <img src="https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/96d54c30c99dbec3acb4300668d5b275991c83b6/groupe3/image/Hogwarts.jpg" width="50%" height="50%" />
+
+
+# Hi ! Welcome to Hogwarts.
 Come and discover our riddles !
 
 1. [Caesar cipher](1-codecésar.md)
