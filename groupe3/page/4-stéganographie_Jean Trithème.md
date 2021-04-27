@@ -1,32 +1,21 @@
-
-A   SURELY
-B   I
-C 	AND
-D	  GREAT
-E 	SEE
-F 	ACCIO
-G 	GHOUL
-H 	YOU
-I 	MUDBLOOD
-J 	LUMOS
-K 	WHY
-L 	NEVER
-M 	OWL
-N 	MUGGLES
-O 	WILL
-P 	WON'T
-Q 	SECRET
-R 	LOOK
-S 	THEM
-T 	WAND
-U 	FOR
-V 	PHOENIX
-W	  FIND
-X	  ME
-Y  	TOAD
-Z	  THEY
-
-
+|Letter|Word|Letter|Word|
+|:----------:|:-------------:|:----------:|:-------------:|
+|A|SURELY|N|MUGGLES|
+|B|I|O|WILL|
+|C|AND|P|WON'T|
+|D|GREAT|Q|SECRET|
+|E|SEE|R|LOOK|
+|F|ACCIO|S|THEM|
+|G|GHOUL|T|WAND|
+|H|YOU|U|FOR|
+|I|MUDBLOOD|V|PHOENIX|
+|J|LUMOS|W|FIND|
+|K|WHY|X|ME|
+|L|NEVER|Y|TOAD|
+|M|OWL|Z|THEY|
+ 
+ 
+ 
 > Here are some sentences, can you find their secret ?
 
 
