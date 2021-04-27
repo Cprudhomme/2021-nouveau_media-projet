@@ -1,6 +1,13 @@
 # Mirror on the wall who is the prettiest Tom?: Steganography example like Trittheme
 
-The greatest Tom is not the one who thinks of himself as the greatest Tom, but it's rather the one who has been forgotten. Stop.
+The greatest Tom, who should be named
+Is not the one you love so dearly
+who thinks of himself, and for no reason,
+as the greatest Tom, silly snake
+but it's rather, you should all agree,
+the one who, and only one,
+has been forgotten, more than once,
+Stop. Press send.
 
 
 Code:
