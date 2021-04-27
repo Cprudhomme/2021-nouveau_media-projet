@@ -13,7 +13,7 @@ décodé par :
 
 décodé par : Anna
 
-4. Hidden word - Trithème style (Inès) -> [code george sand](/4-stégano_Trithème.md)
+4. Hidden word - Trithème style (Inès) -> [code trithème](/4-stégano_Trithème.md) 
 
 décodé par : Dariia, Jed, Baptiste
 
