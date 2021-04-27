@@ -1,6 +1,6 @@
 # Carte du Maraudeur
 
-Trouve la formule et tous les chemins te seront dévoilés !
+## Trouve la formule et tous les chemins te seront dévoilés !
 
 Je ne ressens qu'admiration,
 
@@ -21,7 +21,7 @@ Je célèbre aussi les Serpentards dont les mauvaises réputations ne reflètent
 
 # Marauder's map
 
-Find the formula and all paths will be revealed to you!
+## Find the formula and all paths will be revealed to you!
 
 I admire these wonderful Houses
 
