@@ -1,4 +1,4 @@
-#trithemius cipher
+# trithemius cipher
 
 I created a table containing the words that correspond to each letter of the alphabet.
 All you have to do is read the sentences and find the matching letter for every word.
