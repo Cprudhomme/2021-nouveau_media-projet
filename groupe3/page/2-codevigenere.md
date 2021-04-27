@@ -1,19 +1,20 @@
 # Code Vigenère
 
-> Here are come letters, can you find its secret?
+Here are come letters, can you find its secret?
 
 HZ CUTQH Z MAYJF SDGU HO NGZBNKH FD RZJHM GE SU XOA QCDSRYB NJS PDMC MH LALB BA HSGWX DB IN UDL ODXDTMM
 
-  A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z
-A	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
-B	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S
-C	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T
-D	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U
-E	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V
-F	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W
-G	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X
-H	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y
-I	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z
+  | - | A |	B |	C | D | E | F | G | H | I	| J |	K |	L |	M |	N |	O |	P |	Q |	R |	S |	T |	U |	V |	W |	X |	Y |	Z |
+  |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| A	| S |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E	| F	| G	| H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |	R |
+| B |	T |	U |	V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F	| G	| H	| I	| J	| K	| L	| M	| N	| O	| P |	Q |	R |	S |
+| C	| U	| V	| W	| X	| Y |	Z	| A	| B	| C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |	R |	S |	T |
+| D	| V |	W |	X |	Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K | L	| M |	N |	O |	P |	Q |	R |	S |	T |	U |
+| E	| W	| X	| Y |	Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |	R |	S |	T |	U |	V |
+| F	| X	| Y	| Z |	A |	B |	C |	D |	E |	F |	G |	H |	I |	J |	K	| L |	M |	N |	O |	 |	Q |	R | S	| T |	U |	V |	W |
+| G | Y	| Z |	A	| B	| C |	D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O |	P |	Q |	R	| S | T	| U | V	| W	| X |
+| H | Z	| A | B |	C |	D |	E |	F |	G |	H	| I	| J |	K |	L |	M |	N |	O |	P	| Q |	R |	S |	T |	U |	V |	W |	X |	Y |
+| I |	A	| B | C | D |	E |	F |	G |	H |	I |	J |	K |	L |	M |	N |	O	| P |	Q |	R |	S |	T |	U |	V |	W	| X |	Y |	Z |
 J	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A
 K	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B
 L	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C
@@ -33,4 +34,4 @@ Y	Q	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P
 Z	R	S	T	U	V	W	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q
 
 
-[see instructions](/Users/dariiakopeina/Documents/GitHub/2021-nouveau_media-projet/groupe3/page/2-explications.md)
+[see instructions](codevigenèreinstructions.md)
