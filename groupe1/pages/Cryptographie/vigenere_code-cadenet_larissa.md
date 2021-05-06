@@ -6,6 +6,8 @@ Here's my coded message :
 
 **Tcf dvq hyx Cowi Fxcfw Kftqgq**
 
+The key : **Voldemort**
+
 You can use the following table to decypher it.
 
 
@@ -37,3 +39,8 @@ You can use the following table to decypher it.
 |X  |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W  |
 |Y  |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X  |
 |Z  |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y  |
+
+
+Or more complicated:
+
+**AWYG XTS TNK WQ BSG QRG, WIE EI HSIR RSLUC KCL VJIWG NGGK EJGP BSGFFIXGJPV EXCEZ OVP ZEK.**
