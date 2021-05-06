@@ -6,7 +6,7 @@ Here's my coded message :
 **Tcf dvq hyx Cowi Fxcfw Kftqgq**
 You can use the following table to decypher it.
 
-![vigenere code](/pages/Cryptographie/vigenere.png)
+![vigenere code](/Cryptographie/vigenere.png)
 
 |   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z  |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|--:|
