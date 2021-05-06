@@ -8,7 +8,6 @@ Here's my coded message :
 
 You can use the following table to decypher it.
 
-![vigenere code](/vigenere.png)
 
 |   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z  |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|--:|
