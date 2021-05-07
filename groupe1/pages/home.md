@@ -16,7 +16,7 @@
   * Ceasar code
   
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/Cryptographie/ceasar_code-elbourgcarida.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/Cryptographie/Instruction_for_ceasar_code.md): Carida Elbourg
-    * Deciphering : Aurélie Prajet
+    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/Cryptographie/decryptagecesar_aureliep.md): Aurélie Prajet
 
  * Vigenère code
 
