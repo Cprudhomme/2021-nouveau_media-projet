@@ -8,7 +8,7 @@
 
   * Georges Sand/Alfred Musset
   
-    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursivite_georgessand_maraudeur.md) and instructions : Aurélie Prajet
+    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursivite_georgessand_maraudeur.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursitivite_model_georgessand_expliquations.md) (bilingual): Aurélie Prajet
     * Deciphering : Carida Elbourg
   
 ##  Cryptography
