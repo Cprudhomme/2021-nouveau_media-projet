@@ -17,3 +17,8 @@
   
     * Encryption : Carida Elbourg
     * Deciphering : Aurélie Prajet
+
+ * Vigenère code
+
+    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/d9c65b9985c11c6aaaa7072d03f8cf2bf733cd4c/groupe1/pages/Cryptographie/vigenere_code-cadenet_larissa.md) : Larissa Cadenet
+    * Deciphering : 
