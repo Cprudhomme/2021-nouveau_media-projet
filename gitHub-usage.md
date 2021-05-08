@@ -27,8 +27,8 @@ Then, choose the free subscription.
 ### Overview of repository management
 ![Git working overview](/image/git-repository.jpg)
 
-### Good practices of work 
-- Initiate your local repository, thanks to git clone. 
+### Good practices of work
+- Initiate your local repository, thanks to git clone.
 - When beginning to work, always make a pull to update your local repository according to the remote one.
 - After each sub-task done, commit your changes on your local repository.
 - Before to stop to work, always push your work on the remote repository.
@@ -87,4 +87,3 @@ Commit the files by indicating "Conflicts are solved" as message, and push.
 ## Project management: Collaborative work with GitHub
 
 Milestones and issues management in GitHub
-
