@@ -8,9 +8,9 @@ Alphabet:                 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 Caesar's Alphabet (+2) :  CDEFGHIJKLMNOPQRSTUVWXYZAB
 
-With a shift of **2 to the left**, H would become J, A would become C, and so on : My message **"HARRY POTTER"** is now **"JCTTA RQVVGT"**.
+With a shift of **2 to the right**, H would become J, A would become C, and so on : My message **"HARRY POTTER"** is now **"JCTTA RQVVGT"**.
 
-I can also encrypt my message without using the linear alphabet, but a disordered alphabet with a shift of **3 to the right this time**.
+I can also encrypt my message without using the linear alphabet, but a disordered alphabet with a shift of **3 to the right**.
 Let's take our "HARRY POTTER" message.
 
 Disordered alphabet:                AZERTYUIOPQSDFGHJKLMWXCVBN
