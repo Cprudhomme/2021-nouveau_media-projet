@@ -21,4 +21,4 @@ This gives us :
 | Ninth | No |
 | Tenth | Good |
 
-**Je jure que solennellement que mes intentions sont mauvais / I solemnly swear that I am up to no good !** 
+**Je jure que solennellement que mes intentions sont mauvaises / I solemnly swear that I am up to no good !** 
