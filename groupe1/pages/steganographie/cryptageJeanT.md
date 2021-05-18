@@ -5,7 +5,7 @@ Each letter of this alphabet corresponds to a spell :
 A	Mobilicorpus/
 B	Morsmordre/
 C	Mutismus/
-D	"Sonorus"/
+D	Sonorus/
 E	Oubliette/
 F	Crac badaboum/
 G	Allohomora/
@@ -21,11 +21,11 @@ P	Rictuscempra/
 Q	Serpentasortia/
 R	Silencio/
 S	Evanesco/
-T	Sonorus/
+T	Accio/
 U	Sourdinam/
 V	Spero patronum/
 W	Stupefix/
-X	Tarrentallegra/
+X	Collaporta/
 Y	Reparo/
 Z	Wingardium leviosa/
 
