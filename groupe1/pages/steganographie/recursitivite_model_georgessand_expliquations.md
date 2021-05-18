@@ -1,4 +1,4 @@
-#Explication de la récursivité : Modèle Georges Sand
+# Explication de la récursivité : Modèle Georges Sand
 
 
 Cette stéganographie illustre la récursivité appliquée à un texte,
@@ -15,7 +15,7 @@ Le second mot de la formule est le second mot du second vers.
 Ainsi de suite, jusqu'au dernier vers.
 
 
-#Explanation of recursivity : Georges Sand model
+# Explanation of recursivity : Georges Sand model
 
 This steganography illustrates the recursivity applied to a text,
 similar to the example of the exchanges between Georges Sand and Alfred Musset.
