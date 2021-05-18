@@ -32,3 +32,7 @@ Finally, I got the message in plain English:
 I HAVE SEEN YOUR HEART AND IT'S MINE
 
 So my first assumption was correct. The key is: 3/left
+
+
+![voldemortquote](https://i.pinimg.com/originals/05/61/00/0561006d9ec8b44635a1bc0b7cca577a.jpg)
+
