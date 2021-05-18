@@ -1,33 +1,33 @@
-CRYPTAGE INSPIRÉ DE LA RUSE DE L’ABBÉ JEAN TRITHÈME
+SHORTHAND INSPIRED BY THE RUSE OF ABBÉ JEAN TRITHÈME
 
 Each letter of this alphabet corresponds to a spell :
 
-A	Mobilicorpus
-B	Morsmordre
-C	Mutismus
-D	"Sonorus"
-E	Oubliette
-F	Crac badaboum
-G	Allohomora
-H	Portus
-I	Prior incanta
-J	Protego
-K	Enervatum
-L	Recurvite
-M	Reducto
-N	Petrificus totalus
-O	Tarretallegra
-P	Rictuscempra
-Q	Serpentasortia
-R	Silencio
-S	Evanesco
-T	Sonorus
-U	Sourdinam
-V	Spero patronum
-W	Stupefix
-X	Tarrentallegra
-Y	Reparo
-Z	Wingardium leviosa
+A	Mobilicorpus/
+B	Morsmordre/
+C	Mutismus/
+D	"Sonorus"/
+E	Oubliette/
+F	Crac badaboum/
+G	Allohomora/
+H	Portus/
+I	Prior incanta/
+J	Protego/
+K	Enervatum/
+L	Recurvite/
+M	Reducto/
+N	Petrificus totalus/
+O	Tarretallegra/
+P	Rictuscempra/
+Q	Serpentasortia/
+R	Silencio/
+S	Evanesco/
+T	Sonorus/
+U	Sourdinam/
+V	Spero patronum/
+W	Stupefix/
+X	Tarrentallegra/
+Y	Reparo/
+Z	Wingardium leviosa/
 
 Find the hidden word using the different spells and the alphabet in the poem, enjoy !
 
