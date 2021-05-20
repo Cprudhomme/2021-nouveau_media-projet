@@ -11,6 +11,11 @@
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursivite_georgessand_maraudeur.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursitivite_model_georgessand_expliquations.md) (bilingual): Aurélie Prajet
     * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/edit/main/groupe1/pages/steganographie/decipheringstenography_carida.md) : Carida Elbourg
   
+  * Modern Steganography
+  
+    * [Coding](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/a20173748a2fc8092d1f24cfae25b0086437f974/groupe1/pages/steganographie/How%20to%20make%20modern%20stenography%20step%20by%20step.docx) : Soleyne Grossard
+    * [Decoding](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/06ecae7dce42c2d2a4678fd4fe9212efcc37b252/groupe1/pages/steganographie/decoding_modern_steganography-cadenetlarissa.md) : Larissa Cadenet
+    
 ##  Cryptography
 
   * Ceasar code
