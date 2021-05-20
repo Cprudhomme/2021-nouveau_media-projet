@@ -13,8 +13,8 @@
   
   * Modern Steganography
   
-    * [Coding](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/a20173748a2fc8092d1f24cfae25b0086437f974/groupe1/pages/steganographie/How%20to%20make%20modern%20stenography%20step%20by%20step.docx) : Soleyne Grossard
-    * [Decoding](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/06ecae7dce42c2d2a4678fd4fe9212efcc37b252/groupe1/pages/steganographie/decoding_modern_steganography-cadenetlarissa.md) : Larissa Cadenet
+    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/a20173748a2fc8092d1f24cfae25b0086437f974/groupe1/pages/steganographie/How%20to%20make%20modern%20stenography%20step%20by%20step.docx) : Soleyne Grossard
+    * [Decyphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/06ecae7dce42c2d2a4678fd4fe9212efcc37b252/groupe1/pages/steganographie/decoding_modern_steganography-cadenetlarissa.md) : Larissa Cadenet
     
 ##  Cryptography
 
@@ -26,4 +26,4 @@
  * Vigenère code
 
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/d9c65b9985c11c6aaaa7072d03f8cf2bf733cd4c/groupe1/pages/Cryptographie/vigenere_code-cadenet_larissa.md) : Larissa Cadenet
-    * Deciphering : 
+    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/a20173748a2fc8092d1f24cfae25b0086437f974/groupe1/pages/Cryptographie/decryptage_Vigenere_estelle_m.md) : Estelle Massamba
