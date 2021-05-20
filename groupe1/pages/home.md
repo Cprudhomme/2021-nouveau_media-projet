@@ -19,7 +19,7 @@
   * Jean Thritème
   
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/cryptageJeanT.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/intructions_cryptageJeanT.md) : Estelle Massamba
-    * Deciphering : Soleyne Grossard
+    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/Cryptographie/d%C3%A9codage%20jean%20trith%C3%A8me%20soleyne%20grossard.docx) : Soleyne Grossard
     
 ##  Cryptography
 
