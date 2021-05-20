@@ -14,7 +14,7 @@
   * Modern Steganography
   
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/stegano%20HP.png) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/How%20to%20make%20modern%20stenography%20step%20by%20step.docx) : Soleyne Grossard
-    * Deciphering : Larissa Cadenet
+    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/a89257c29afbcd71ab416e82b816d9e9ded79946/groupe1/pages/steganographie/Stegano-%20Solution-%20Cadenet.Larissa) : Larissa Cadenet
 
   * Jean Thritème
   
