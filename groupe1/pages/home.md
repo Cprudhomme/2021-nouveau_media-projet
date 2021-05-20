@@ -31,4 +31,4 @@
  * Vigenère code
 
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/d9c65b9985c11c6aaaa7072d03f8cf2bf733cd4c/groupe1/pages/Cryptographie/vigenere_code-cadenet_larissa.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/Cryptographie/instructions_vigener-code.md) : Larissa Cadenet
-    * Deciphering : Estelle Massamba
+    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/Cryptographie/decryptage_Vigenere_estelle_m.md) : Estelle Massamba
