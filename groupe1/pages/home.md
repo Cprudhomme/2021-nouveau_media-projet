@@ -18,7 +18,7 @@
 
   * Jean Thritème
   
-    * Encryption : Estelle Massamba
+    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/cryptageJeanT.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/intructions_cryptageJeanT.md) : Estelle Massamba
     * Deciphering : Soleyne Grossard
     
 ##  Cryptography
@@ -30,5 +30,5 @@
 
  * Vigenère code
 
-    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/d9c65b9985c11c6aaaa7072d03f8cf2bf733cd4c/groupe1/pages/Cryptographie/vigenere_code-cadenet_larissa.md) : Larissa Cadenet
+    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/d9c65b9985c11c6aaaa7072d03f8cf2bf733cd4c/groupe1/pages/Cryptographie/vigenere_code-cadenet_larissa.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/Cryptographie/instructions_vigener-code.md) : Larissa Cadenet
     * Deciphering : Estelle Massamba
