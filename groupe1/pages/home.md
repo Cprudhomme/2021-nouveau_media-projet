@@ -13,8 +13,14 @@
   
   * Modern Steganography
   
-    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/stegano%20HP.png) : Soleyne Grossard
-    * 
+    * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/stegano%20HP.png) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/How%20to%20make%20modern%20stenography%20step%20by%20step.docx) : Soleyne Grossard
+    * Deciphering : Larissa Cadenet
+
+  * Jean Thritème
+  
+    * Encryption : Estelle Massamba
+    * Deciphering : Soleyne Grossard
+    
 ##  Cryptography
 
   * Ceasar code
@@ -25,4 +31,4 @@
  * Vigenère code
 
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/d9c65b9985c11c6aaaa7072d03f8cf2bf733cd4c/groupe1/pages/Cryptographie/vigenere_code-cadenet_larissa.md) : Larissa Cadenet
-    * Deciphering : 
+    * Deciphering : Estelle Massamba
