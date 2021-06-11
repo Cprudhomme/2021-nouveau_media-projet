@@ -1,0 +1,1 @@
+Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. Here, we hid an image inside another using the program “SteganograFree”. The image that hides the other : BMP file format.
