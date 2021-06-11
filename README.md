@@ -10,9 +10,9 @@ The theme of the project chosen by the students is Harry Potter. The students we
 You will find below the work done by each group.
 
 - [Group 1](groupe1/pages/home.md)
-- [Group 2](groupe 2/pages/Home.md)
-- Group 3
-- Group 4
+- [Group 2](groupe2/pages/Home.md)
+- [Group 3](groupe3/page/0-home.md)
+- [Group 4](groupe4/Home/Tâches.md)
 
 ## Instructions for project implementation
 
