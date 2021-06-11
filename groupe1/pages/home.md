@@ -7,24 +7,25 @@
 ## Steganography
 
   * Georges Sand/Alfred Musset
-  
+
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursivite_georgessand_maraudeur.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/steganographie/recursitivite_model_georgessand_expliquations.md) (bilingual): Aurélie Prajet
-    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/edit/main/groupe1/pages/steganographie/decipheringstenography_carida.md) : Carida Elbourg
-  
+    * [Decyphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/edit/main/groupe1/pages/steganographie/decipheringstenography_carida.md) : Carida Elbourg
+
   * Modern Steganography
   
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/stegano%20HP.png) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/How%20to%20make%20modern%20stenography%20step%20by%20step.docx) : Soleyne Grossard
-    * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/a89257c29afbcd71ab416e82b816d9e9ded79946/groupe1/pages/steganographie/Stegano-%20Solution-%20Cadenet.Larissa) : Larissa Cadenet
+    * [Decyphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/06ecae7dce42c2d2a4678fd4fe9212efcc37b252/groupe1/pages/steganographie/decoding_modern_steganography-cadenetlarissa.md) : Larissa Cadenet
 
   * Jean Thritème
-  
+
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/cryptageJeanT.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/steganographie/intructions_cryptageJeanT.md) : Estelle Massamba
     * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/main/groupe1/pages/Cryptographie/d%C3%A9codage%20jean%20trith%C3%A8me%20soleyne%20grossard.docx) : Soleyne Grossard
-    
+
+
 ##  Cryptography
 
   * Ceasar code
-  
+
     * [Encryption](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/Cryptographie/ceasar_code-elbourgcarida.md) and [instructions](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/Cryptographie/Instruction_for_ceasar_code.md): Carida Elbourg
     * [Deciphering](https://github.com/Cprudhomme/2021-nouveau_media-projet/blob/Magyar/groupe1/pages/Cryptographie/decryptagecesar_aureliep.md): Aurélie Prajet
 

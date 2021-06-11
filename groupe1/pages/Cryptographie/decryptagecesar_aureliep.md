@@ -19,7 +19,7 @@ I decided to do a test based on this assumption.
 
 To get from the "Q" to the "I" one has to move 3 rows to the left.
 
-So, I duplicated the given alphabet and placed it in parallel, 3 rows back, so that the "Q" corresponds with the "I". This gives:
+So, I duplicated the given alphabet and placed it in parallel, 3 rows back, so that the "Q" corresponds with the "I". It gives:
 
 A Z E R T Y U I O P Q S D F G H J K L M W X C V B N
 
@@ -34,6 +34,4 @@ I HAVE SEEN YOUR HEART AND IT'S MINE
 So my first assumption was correct. The key is: 3/left
 
 
-![vdm](https://i.pinimg.com/originals/05/61/00/0561006d9ec8b44635a1bc0b7cca577a.jpg)
-
-
+![voldemortquote](https://i.pinimg.com/originals/05/61/00/0561006d9ec8b44635a1bc0b7cca577a.jpg)
