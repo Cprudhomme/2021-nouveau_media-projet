@@ -1,0 +1,47 @@
+# The Vigenere cypher
+
+## How does it work ?
+Let's say you want to send a secret message to someone, but you don't want this message to be too accessible, you'll have to code this message.
+
+Here's my coded message :
+
+**Tcf dvq hyx Cowi Fxcfw Kftqgq**
+
+The key : **Voldemort**
+
+You can use the following table to decypher it.
+
+
+|   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z  |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|--:|
+|A  |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z  |
+|B  |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A  |
+|C  |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B  |
+|D  |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C  |
+|E  |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D  |
+|F  |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E  |
+|G  |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F  |
+|H  |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G  |
+|I  |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H  |
+|J  |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I  |
+|K  |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J  |
+|L  |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K  |
+|M  |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L  |
+|N  |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M  |
+|O  |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N  |
+|P  |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O  |
+|Q  |Q   |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P  |
+|R  |R   |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q  |
+|S  |S   |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R  |
+|T  |T   |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S  |
+|U  |U   |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T  |
+|V  |V   |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U  |
+|W  |W   |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V  |
+|X  |X   |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W  |
+|Y  |Y   |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X  |
+|Z  |Z   |A   |B   |C   |D   |E   |F   |G   |H   |I   |J   |K   |L   |M   |N   |O   |P   |Q   |R   |S   |T   |U   |V   |W   |X   |Y  |
+
+
+Or more complicated:
+
+**AWYG XTS TNK WQ BSG QRG, WIE EI HSIR RSLUC KCL VJIWG NGGK EJGP BSGFFIXGJPV EXCEZ OVP ZEK.**

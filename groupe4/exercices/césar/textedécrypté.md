@@ -1,0 +1,1 @@
+Ravenclaw is one of the four Houses of Hogwarts School of Witchcraft and Wizardry. The House was founded by Rowena Ravenclaw. Ravenclaws are known for their wisdom, cleverness, and wit. According to J.K. Rowling, Ravenclaw roughly corresponds to the element of air.
